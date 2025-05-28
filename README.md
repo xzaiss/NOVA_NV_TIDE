@@ -1,4 +1,4 @@
-# NOVA (NV) — TIDE Initiative
+# NOVA (NV) — New Value Token ID Initiative
 
 A decentralized identity & security concept.  
 Blockchain-based. Community-driven.
@@ -8,7 +8,7 @@ Blockchain-based. Community-driven.
 ## Vision
 
 Security. Sovereignty. Digital ethics.  
-NOVA is the network. (NV) is the token. TIDE is the protocol.
+NOVA is the network. (NV) is the token. New Value´s are the protocol.
 
 A seed has been planted.
 
